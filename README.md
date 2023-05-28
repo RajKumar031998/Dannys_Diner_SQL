@@ -81,10 +81,6 @@ Danny has shared with you 3 key datasets for this case study:
 * Customer with Id 'A' ordered the most while Customer with ID 'B' spent the least amount
 * Customer with Id 'B' visited more in the restaurant i.e., 6 times.
 
-
-
-# Detailed Analysis with MySQL Query
-
 ### Danny has shared with you 3 key datasets for this case study:
 
 * sales
@@ -147,8 +143,7 @@ VALUES
 ```
 
 You can inspect the entity relationship diagram and example data below.
-
-< img src=https://github.com/RajKumar031998/Dannys_Diner_SQL/blob/main/Danny's%20Diner%20Schema.png width=50% height=50%>
+<img src="https://github.com/RajKumar031998/Dannys_Diner_SQL/blob/main/Danny's%20Diner%20Schema.png" width=50% height=50%>
 
 ## Database and Tools
 * Postgre SQL
