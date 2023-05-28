@@ -150,7 +150,7 @@ VALUES
 
 You can inspect the entity relationship diagram and example data below.
 
-<img src="https://github.com/MrKapoor95/SQL_Project/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/CaseStudy%201%20Schema.png" width=50% height=50%>
+<img src=https://github.com/RajKumar031998/Dannys_Diner_SQL/blob/main/Danny's%20Diner%20Schema.png width=50% height=50%>
 
 ## Database and Tools
 * Postgre SQL
