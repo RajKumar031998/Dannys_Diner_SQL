@@ -146,11 +146,9 @@ VALUES
   ('B', '2021-01-09');
 ```
 
-[DBFiddle Link For Schema](https://www.db-fiddle.com/f/2rM8RAnq7h5LLDTzZiRWcd/138)
-
 You can inspect the entity relationship diagram and example data below.
 
-<img src=https://github.com/RajKumar031998/Dannys_Diner_SQL/blob/main/Danny's%20Diner%20Schema.png width=50% height=50%>
+< img src=https://github.com/RajKumar031998/Dannys_Diner_SQL/blob/main/Danny's%20Diner%20Schema.png width=50% height=50%>
 
 ## Database and Tools
 * Postgre SQL
